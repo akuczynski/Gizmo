@@ -1,1 +1,1 @@
-# Gizmo
+Simple application to notify who is in the office.

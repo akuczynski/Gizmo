@@ -1,0 +1,9 @@
+﻿packages
+src/Messages/bin
+src/Messages/obj
+src/GizmoServer/bin
+src/GizmoServer/obj
+src/Gizmo/obj
+src/Gizmo/.vs
+.vs/Gizmo
+src/Gizmo/bin
